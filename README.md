@@ -1,8 +1,8 @@
-# 🧠 Study Summary Bot
+# Study Summary Bot
 
 This is a beginner-friendly chatbot that summarizes long study notes using natural language processing (NLP). It takes input from a `.txt` file and generates a summary of customizable length.
 
-## 🚀 How to Run
+## How to Run
 
 1. Create virtual environment:
 
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 python summary_chatbot.py
 
-## 📦 Dependencies
+## Dependencies
 
 - Python
 - sumy
